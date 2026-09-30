@@ -1,0 +1,2 @@
+# Android_ADBver27ForWindowsXP_x32_x64
+Android_ADBver27ForWindowsXP_x32_x64
